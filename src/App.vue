@@ -84,7 +84,6 @@
               </div>
               <div class="form-group">
                 <button type="submit" class="btn btn-primary" style="margin-right: 5px">Wyślij</button>
-                <button type="reset" class="btn btn-primary">Resetuj</button>
               </div>
             </form>
           </div>
